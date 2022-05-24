@@ -1,0 +1,2 @@
+console.log("Hello %c JS %c project",
+    'font-family: Franklin Gothic Medium , Arial Narrow, Arial, sans - serif; color:blue; font-size:100px;  font-weight:bold ', 'color: red; font-size: 40px; background-color: blue; font-weight:bold;')
