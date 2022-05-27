@@ -1,0 +1,13 @@
+console.log(1e5);
+console.log(1 * 10 ** 5);
+console.log(100000);
+console.log(Math.pow(10, 5));
+console.log(Number("100000"));
+console.log(Math.min(100000, 200000, 400000));
+console.log(Math.max(100000, 20000, 40000));
+console.log(Math.round(100000.1));
+console.log(Math.floor(100000.3));
+console.log(parseInt("100000.22 Ali 22"));
+console.log(100000.111.toFixed(0));
+console.log(`${100000}`);
+console.log(50000 + 50000);
